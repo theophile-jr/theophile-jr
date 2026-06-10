@@ -4,7 +4,7 @@ Software Engineer @Thales SIX GTS · Computer Science @INSA Lyon
 
 Coding things since I was 10.
 
-**For fun**
+**For fun recently**
 
 [typefast.fr](https://typefast.fr) — typing practice & competition
 
