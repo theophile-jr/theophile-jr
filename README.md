@@ -1,6 +1,6 @@
 # Théophile Jérôme-Rocher 🇫🇷
 
-Software Engineer @Thales SIX GTS · Computer Science @INSA Lyon
+Software Engineer @Thales SIX · Computer Science @INSA Lyon
 
 Coding things since I was 10.
 
